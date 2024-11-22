@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "AED Portal",
   "logo": {
-    "dark": "",
-    "light": ""
+    "dark": "/logo/application.svg",
+    "light": "/logo/application.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
